@@ -1,0 +1,23 @@
+
+#ifndef LCD_PRIVATE_H_
+#define LCD_PRIVATE_H_
+
+// typedef enum{
+// 	LCD_CLEAR=0x01,
+// 	LCD_CURSOR_OFF=0x0C,
+// 	LCD_CURSOR_ON=0x0F,
+// 	LCD_4BIT_MODE=0x28,
+// 	LCD_8BIT_MODE=0x38,
+// 	LCD_ON=0x0F,
+// 	LCD_CURSOR_UNDERLINE=0x0E,
+// 	LCD_CURSOR_SHIFT_LEFT=0x10,
+// 	LCD_CURSOR_SHIFT_RIGHT=0x14,
+// 	LCD_CURSOR_INCREMENT=0x06,
+// 	LCD_CGRAM_START_ADDRESS=0x40
+// }LCD_instruction_t;
+// 
+
+
+
+
+#endif /* LCD_PRIVATE_H_ */
